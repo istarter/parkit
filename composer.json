@@ -1,0 +1,12 @@
+{
+    "autoload": {
+    "classmap": [
+    "classes/"
+    ]
+    
+    },
+    "require": {
+        "koenpunt/php-inflector": "^1.0"
+    }
+    
+}
