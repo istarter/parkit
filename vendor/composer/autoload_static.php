@@ -27,6 +27,7 @@ class ComposerStaticInit3f7b33b212d218da6452f6ae1957a44e
         'Helper' => __DIR__ . '/../..' . '/classes/Helper.php',
         'Query' => __DIR__ . '/../..' . '/classes/Query.php',
         'Session' => __DIR__ . '/../..' . '/classes/Session.php',
+        'Slot' => __DIR__ . '/../..' . '/classes/Slot.php',
         'User' => __DIR__ . '/../..' . '/classes/User.php',
     );
 

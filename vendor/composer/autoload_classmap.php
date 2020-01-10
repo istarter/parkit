@@ -12,5 +12,6 @@ return array(
     'Helper' => $baseDir . '/classes/Helper.php',
     'Query' => $baseDir . '/classes/Query.php',
     'Session' => $baseDir . '/classes/Session.php',
+    'Slot' => $baseDir . '/classes/Slot.php',
     'User' => $baseDir . '/classes/User.php',
 );
