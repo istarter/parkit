@@ -39,9 +39,11 @@ $user_data = [
 
 
 
+
 $user = new User();
  $check = $user->insert($user_data);
 
+//  echo $user->getSql();
 // $user->where("id",1,'=');
 
 // // $user->where("email",'test123@gmail.com')->where("status",1,'!=');
