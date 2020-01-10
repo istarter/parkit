@@ -32,6 +32,7 @@ require_once __DIR__."/../vendor/autoload.php";
 // // $result = DB:query("SELECT * FROM users LEFT JOIN books ON books.user_id = users.id WHERE users.user_id=1")
 
 // exit;
+
 // $user_data = [
 //     'firstname' => 'faiza1',
 //     'email' => 'ihsan@gmail.com',
@@ -40,8 +41,11 @@ require_once __DIR__."/../vendor/autoload.php";
 
 
 
+
+
 // $user = new User();
 //  $check = $user->insert($user_data);
+
 
 //  echo $user->getSql();
 // $user->where("id",1,'=');

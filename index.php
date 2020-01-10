@@ -1,4 +1,5 @@
 <?php
+
 require_once "config/init.php";
 require_once  "views/layouts/header.php";
 ?>
@@ -18,6 +19,7 @@ require_once  "views/layouts/header.php";
 							<a href="#" class="primary-btn text-uppercase">Rent Car Now</a>
 						</div>
 						<div class="col-lg-5  col-md-6 header-right">
+
 							<h4 class="text-white pb-30">Book Your Parking Today!</h4>
 							<form class="form" role="form" autocomplete="off">
 							    <div class="form-group">
@@ -93,7 +95,7 @@ require_once  "views/layouts/header.php";
 			</section>
 			<!-- End banner Area -->	
 
-			
+
             
            <?php require_once  "views/layouts/footer.php";
            ?>
